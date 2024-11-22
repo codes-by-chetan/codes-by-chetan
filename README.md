@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 #### CM-TextEditor
 A customizable, easy-to-use text editor library for Angular that supports `ngModel` binding. It’s ideal for anyone looking to integrate a text editor into their Angular applications with minimal setup.  
-**Demo**: [GitHub Pages](https://www.npmjs.com/package/cm-text_editor)  
+**Demo**: [GitHub Pages](https://codes-by-chetan.github.io/CM-TextEditor/)  
 **Key Features**:
   - Open-source and free to use
   - Supports `ngModel` binding
