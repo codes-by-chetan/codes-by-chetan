@@ -42,7 +42,7 @@ I’m building an **online restaurant platform** with Django, featuring responsi
 
 ### 🎮 Fun Facts
 
-- **Tech Gadgets**: I'm truely interested in the tech gadgets and thier evolution.
+- **Tech Gadgets**: I'm truely interested in the tech gadgets and their evolution.
 - **Phonk Music Lover**: I prefer Phonks/Funks music while coding.
 - **Open to Collaboration**: If you’re interested in any of my projects, feel free to reach out!
 
