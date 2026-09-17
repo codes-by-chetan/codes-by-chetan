@@ -134,7 +134,7 @@ I enjoy working across the stack — from polished frontend experiences to backe
 
 Always open to **collaboration, open-source contributions, interesting projects, and tech discussions**.
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  • 
+📧 **Email:** [chetanmohite2128@gmail.com](mailto:chetanmohite2128@gmail.com)  • 
 💼 **LinkedIn:** [Chetan Mohite](https://www.linkedin.com/in/chetan-mohite-0703b5288/)  • 
 📸 **Instagram:** [@chetan_p_mohite](https://www.instagram.com/chetan_p_mohite/)  •
 
