@@ -18,25 +18,91 @@ I enjoy working across the stack — from polished frontend experiences to backe
 
 ## 🧠 What I Work With
 
-| 🎨 Frontend  | ⚙️ Backend             | 🗄️ Data   | 🛠️ Tools & Platform |
-| ------------ | ---------------------- | ---------- | -------------------- |
-| React        | Node.js                | PostgreSQL | Git / GitHub         |
-| Next.js      | Express.js             | MongoDB    | GitHub Actions       |
-| Angular      | REST APIs              | SQLite     | Docker               |
-| TypeScript   | WebSockets / Socket.IO | Firebase   | Azure DevOps         |
-| Tailwind CSS | Microservices          |            | Electron             |
-| shadcn/ui    | .NET                   |            | Nx                   |
-| Material UI  | FastAPI / Django       |            | Vite                 |
+<table>
+<tr>
+<td valign="top" width="25%">
 
-| 🧩 Architecture & State | 🤖 AI & Automation           |
-| ----------------------- | ---------------------------- |
-| Zustand / Redux Toolkit | Agentic AI                   |
-| React Context           | AI-powered developer tools   |
-| Zod / React Hook Form   | Automation workflows         |
-| Micro-Frontends         | LLM integrations             |
-| Module Federation       | Prompt & agent engineering   |
-| RBAC / Multi-Tenancy    | Browser automation           |
-| Monorepos / Nx          | Playwright / Puppeteer / CDP |
+### 🎨 Frontend
+
+* React
+* Next.js
+* Angular
+* TypeScript
+* Tailwind CSS
+* shadcn/ui
+* Material UI
+
+</td>
+<td valign="top" width="25%">
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* WebSockets
+* Socket.IO
+* Microservices
+* .NET
+* FastAPI / Django
+
+</td>
+<td valign="top" width="25%">
+
+### 🗄️ Data
+
+* PostgreSQL
+* MongoDB
+* SQLite
+* Firebase
+
+</td>
+<td valign="top" width="25%">
+
+### 🛠️ Tools & Platform
+
+* Git / GitHub
+* GitHub Actions
+* Docker
+* Azure DevOps
+* Electron
+* Nx
+* Vite
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🧩 Architecture & State
+
+* Zustand / Redux Toolkit
+* React Context
+* Zod / React Hook Form
+* Micro-Frontends
+* Module Federation
+* RBAC / Multi-Tenancy
+* Monorepos / Nx
+
+</td>
+<td valign="top" width="50%">
+
+### 🤖 AI & Automation
+
+* Agentic AI
+* LLM Integrations
+* AI-powered Developer Tools
+* Automation Workflows
+* Prompt & Agent Engineering
+* Browser Automation
+* Playwright / Puppeteer / CDP
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,4 +134,8 @@ I enjoy working across the stack — from polished frontend experiences to backe
 
 Always open to **collaboration, open-source contributions, interesting projects, and tech discussions**.
 
-⭐ Check out my pinned repositories below to see what I'm building.
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  • 
+💼 **LinkedIn:** [Chetan Mohite](https://www.linkedin.com/in/chetan-mohite-0703b5288/)  • 
+📸 **Instagram:** [@chetan_p_mohite](https://www.instagram.com/chetan_p_mohite/)  •
+
+⭐ **Check out my pinned repositories below to see what I'm building.**
